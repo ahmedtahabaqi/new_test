@@ -5,7 +5,7 @@
   "dependencies": {
     "@reactions/component": "^2.0.2",
     "DatePicker": "^2.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "date-and-time": "^0.6.3",
     "evergreen-ui": "^4.12.1",
